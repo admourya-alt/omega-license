@@ -1,7 +1,13 @@
 12970|ACTIVE|2030-12-31                   //Xellion-Dollar-Adarsh Mourya
-26766820|ACTIVE|2030-12-31
-106926511|ACTIVE|2030-12-31
-183920338|ACTIVE|2030-12-31
-92418215|ACTIVE|2030-12-31
-25546434|ACTIVE|2030-12-31
-88888|BLOCKED|2026-01-01
+26766820|ACTIVE|2030-12-31                //Vantage-Dollar-Adarsh Mourya
+106926511|ACTIVE|2030-12-31               //Exness-Dollar-Adarsh Mourya
+183920338|ACTIVE|2030-12-31               //Exness-Cent-Adarsh Mourya
+92418215|ACTIVE|2030-12-31                //XM-Dollar-Adarsh Mourya
+25546434|ACTIVE|2030-12-31                //Vantage-Dollar-Adarsh Mourya
+29457729|ACTIVE|2030-12-31                //Vantage-Cent-Suraj Awadhnarayan Mourya
+159997777|ACTIVE|2030-12-31               //Exness-Cent-Garima Mourya
+257436354|ACTIVE|2030-12-31               //Exness-Cent-Jyoti Narayan Mourya
+160013722|ACTIVE|2030-12-31               //Exness-Cent-Narayan Mourya
+257434072|ACTIVE|2030-12-31               //Exness-Cent-Adarsh Mourya
+29086931|ACTIVE|2030-12-31                //Vantage-Cent-Alok Mourya
+88888|BLOCKED|2026-01-01                  //To disable license
