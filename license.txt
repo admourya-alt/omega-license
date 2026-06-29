@@ -1,5 +1,5 @@
 12970|ACTIVE|2030-12-31                   //Xellion-Dollar-Adarsh Mourya
-26766820|ACTIVE|2026-05-31                //Vantage-Dollar-Adarsh Mourya
+26766820|ACTIVE|2030-12-31                //Vantage-Dollar-Adarsh Mourya
 106926511|ACTIVE|2030-12-31               //Exness-Dollar-Adarsh Mourya
 183920338|ACTIVE|2030-12-31               //Exness-Cent-Adarsh Mourya
 92418215|ACTIVE|2030-12-31                //XM-Dollar-Adarsh Mourya
