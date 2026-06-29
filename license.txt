@@ -10,4 +10,6 @@
 160013722|ACTIVE|2030-12-31               //Exness-Cent-Narayan Mourya
 257434072|ACTIVE|2030-12-31               //Exness-Cent-Adarsh Mourya
 29086931|ACTIVE|2030-12-31                //Vantage-Cent-Alok Mourya
+32250010|ACTIVE|2030-12-31                //Vantage-Cent-Garima Mourya
+27266759|ACTIVE|2030-12-31                //Vantage-Cent-Adarsh Mourya
 88888|BLOCKED|2026-01-01                  //To disable license
