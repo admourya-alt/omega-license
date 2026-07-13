@@ -6,6 +6,7 @@
 32251459|ACTIVE|2030-12-31                //Vantage-Cent-Jyoti Narayan Mourya
 32251458|ACTIVE|2030-12-31                //Vantage-Cent-Narayan Mourya
 29459390|ACTIVE|2030-12-31                //Vantage-Cent-Jitendra Mourya
+33700236|ACTIVE|2030-12-31                //Vantage-Cent-Monu Mama Mourya
 32253978|ACTIVE|2027-07-07                //Vantage-Cent-Saurabh Vishwakarma
 32255897|ACTIVE|2027-07-12                //Vantage-Cent-Amit Singh
 12970|ACTIVE|2030-12-31                   //Xellion-Dollar-Adarsh Mourya
