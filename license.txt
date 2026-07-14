@@ -14,4 +14,5 @@
 106926511|ACTIVE|2030-12-31               //Exness-Dollar-Adarsh Mourya
 92418215|ACTIVE|2030-12-31                //XM-Dollar-Adarsh Mourya
 25546434|ACTIVE|2030-12-31                //Vantage-Dollar-Adarsh Mourya
+25671451|ACTIVE|2030-12-31                //Vantage-Dollar-Adarsh Mourya
 88888|BLOCKED|2026-01-01                  //To disable license
